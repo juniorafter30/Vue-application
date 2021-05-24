@@ -1,10 +1,10 @@
 <template>
   <header>
     <nav>
-      <h2><router-link to="/">Find a coach</router-link></h2>
+      <h2><router-link to="/">Znajdź Spadczaka </router-link></h2>
       <ul>
-        <li><router-link to="/coaches">All Coaches</router-link></li>
-        <li><router-link to="/requests">Requests</router-link></li>
+        <li><router-link to="/coaches">Wszystkie Spadczaki</router-link></li>
+        <li><router-link to="/requests">Poszukiwane Spadczaki</router-link></li>
       </ul>
     </nav>
   </header>
